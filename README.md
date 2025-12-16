@@ -59,7 +59,7 @@ Typing_Master/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Thefaizanhassan/Typing_Master
 2. Navigate to the project directory:
     ```bash
     cd Typing_Master
